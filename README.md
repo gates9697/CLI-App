@@ -46,10 +46,10 @@ Using the fs Node package, LIRI will take the text inside of random.txt and then
 
 
 
-![GitHub Logo](/Concert.png)
+![GitHub Logo](/images/Concert.png)
 
-![GitHub Logo](/Song.png)
+![GitHub Logo](/images/Song.png)
 
-![GitHub Logo](/Movie.png)
+![GitHub Logo](/images/Movie.png)
 
-![GitHub Logo](/Do.png)
+![GitHub Logo](/images/Do.png)
